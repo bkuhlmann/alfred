@@ -30,10 +30,8 @@ Master Version (unstable):
 
 = Usage
 
-* To view a demo of any Alfred theme, browse to the _demo_ folder of any theme and
-double-click the index.html to view within a browser.
-* To install and immediately apply an Alfred theme, browse to the _themes_ folder and double-click
-any *.alfredtheme file.
+* To demo a theme, browse to the _demo_ sub-folder of any theme and double-click the index.html to view.
+* To install an Alfred theme, browse to the _themes_ folder and double-click any *.alfredtheme file.
 
 = Company
 
