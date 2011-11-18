@@ -9,9 +9,9 @@ the {Mac OS}[http://www.apple.com/macosx].
 
 = Requirements
 
-1. {Mac OS}[http://www.apple.com/macosx].
-2. Alfred[http://www.alfredapp.com].
-3. {Alfred Powerpack}[http://www.alfredapp.com/purchase].
+1. {Mac OS}[http://www.apple.com/macosx]
+2. Alfred[http://www.alfredapp.com]
+3. {Alfred Powerpack}[http://www.alfredapp.com/purchase]
 
 = Setup
 
@@ -30,7 +30,9 @@ Master Version (unstable):
 
 = Usage
 
-To install and immediately apply an Alfred theme, browse to the _themes_ folder and double-click
+* To view a demo of any Alfred theme, browse to the _demo_ folder of any theme and
+double-click the index.html to view within a browser.
+* To install and immediately apply an Alfred theme, browse to the _themes_ folder and double-click
 any *.alfredtheme file.
 
 = Company
