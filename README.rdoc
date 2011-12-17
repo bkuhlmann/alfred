@@ -33,13 +33,13 @@ Master Version (unstable):
 * To demo a theme, browse to the _demo_ sub-folder of any theme and double-click the index.html to view.
 * To install an Alfred theme, browse to the _themes_ folder and double-click any *.alfredtheme file.
 
-= Company
+= Contributions
 
-{Red Alchemist}[http://www.redalchemist.com]
+Please log all feedback/issues via {GitHub Issues}[https://github.com/bkuhlmann/alfred/issues]. Thanks.
 
-= Author
+= Credits
 
-{Brooke Kuhlmann}[http://www.redalchemist.com]
+Developed by {Brooke Kuhlmann}[http://www.redalchemist.com] at {Red Alchemist}[http://www.redalchemist.com]
 
 = License
 
