@@ -1,7 +1,6 @@
 = Overview
 
-The following is a collection of themes for Alfred[http://www.alfredapp.com] on
-the {Mac OS}[http://www.apple.com/macosx].
+The following is a collection of Alfred[http://www.alfredapp.com] themes for the {Mac OS}[http://www.apple.com/macosx].
 
 = Features
 
