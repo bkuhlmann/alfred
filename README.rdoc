@@ -1,10 +1,12 @@
 = Overview
 
-The following is a collection of Alfred[http://www.alfredapp.com] themes for the {Mac OS}[http://www.apple.com/macosx].
+Provides an Alfred[http://www.alfredapp.com] themes for the {Mac OS}[http://www.apple.com/macosx].
 
 = Features
 
-* Provides an installable Red Alchemist theme (rustic red/black colors).
+Provides the installable {Red Alchemist}[http://www.redalchemist.com] theme (rustic red/black colors) as shown below:
+
+{<img src="https://github.com/bkuhlmann/alfred/raw/master/themes/red_alchemist/screenshot.png" />}[https://github.com/bkuhlmann/alfred]
 
 = Requirements
 
@@ -14,7 +16,7 @@ The following is a collection of Alfred[http://www.alfredapp.com] themes for the
 
 = Setup
 
-Open a terminal window and execute one of the following setups, depending on your version preference:
+Open a terminal window and execute one of the following depending on your version preference:
 
 Current Version (stable):
 
@@ -29,8 +31,8 @@ Master Version (unstable):
 
 = Usage
 
-* To demo a theme, browse to the _demo_ sub-folder of any theme and double-click the index.html to view.
-* To install an Alfred theme, browse to the _themes_ folder and double-click any *.alfredtheme file.
+* To demo, browse to the _demo_ sub-folder and double-click the index.html to view.
+* To install, browse to the _themes_ folder and double-click the *.alfredtheme file.
 
 = Contributions
 
