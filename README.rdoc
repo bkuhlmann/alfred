@@ -1,6 +1,6 @@
 = Overview
 
-Provides an Alfred[http://www.alfredapp.com] themes for the {Mac OS}[http://www.apple.com/macosx].
+Provides an Alfred[http://www.alfredapp.com] themes for the OSX[http://www.apple.com/osx].
 
 = Features
 
@@ -10,7 +10,7 @@ Provides the installable {Red Alchemist}[http://www.redalchemist.com] theme (rus
 
 = Requirements
 
-1. {Mac OS X}[http://www.apple.com/macosx].
+1. OSX[http://www.apple.com/osx].
 2. Alfred[http://www.alfredapp.com].
 3. {Alfred Powerpack}[http://www.alfredapp.com/purchase].
 
