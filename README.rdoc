@@ -36,7 +36,7 @@ Master Version (unstable):
 
 = Contributions
 
-Please log all feedback/issues via {GitHub Issues}[https://github.com/bkuhlmann/alfred/issues]. Thanks.
+Read CONTRIBUTING for details.
 
 = Credits
 
