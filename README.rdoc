@@ -1,5 +1,7 @@
 = Overview
 
+{<img src="https://codeclimate.com/badge.png" />}[https://codeclimate.com/github/bkuhlmann/alfred]
+
 Provides an Alfred[http://www.alfredapp.com] themes for the OSX[http://www.apple.com/osx].
 
 = Features
