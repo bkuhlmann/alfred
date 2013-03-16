@@ -25,7 +25,7 @@ Current Version (stable):
 
   git clone git://github.com/bkuhlmann/alfred.git
   cd alfred
-  git checkout v1.0.0
+  git checkout v2.0.0
 
 Master Version (unstable):
 
@@ -34,7 +34,7 @@ Master Version (unstable):
 
 = Usage
 
-To install a theme, browse to the _themes_ folder, pick a theme folder, and double-click the *.alfredappearance file.
+Browse to the _themes_ folder, pick a theme, and double-click the *.alfredappearance file to install.
 
 = Contributions
 
