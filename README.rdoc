@@ -2,19 +2,20 @@
 
 {<img src="https://codeclimate.com/badge.png" />}[https://codeclimate.com/github/bkuhlmann/alfred]
 
-Provides an Alfred[http://www.alfredapp.com] themes for the OSX[http://www.apple.com/osx].
+Provides Alfred[http://www.alfredapp.com] themes and workflows for OSX[http://www.apple.com/osx].
 
 = Features
 
-Provides the installable {Red Alchemist}[http://www.redalchemist.com] and Gnip[http://gnip.com] themes as shown below:
-
+* Provides the {Red Alchemist}[http://www.redalchemist.com] and Gnip[http://gnip.com] installable themes:
 {<img src="https://github.com/bkuhlmann/alfred/raw/master/themes/red_alchemist/screenshot.png" />}[https://github.com/bkuhlmann/alfred]
 {<img src="https://github.com/bkuhlmann/alfred/raw/master/themes/gnip/screenshot.png" />}[https://github.com/bkuhlmann/alfred]
+* Provides the following installable workflows:
+  * {Apple Say}[link:workflows/apple_say.alfredworkflow]
 
 = Requirements
 
 1. OSX[http://www.apple.com/osx].
-2. Alfred[http://www.alfredapp.com].
+2. Alfred[http://www.alfredapp.com] (Version 2.x.x or higher).
 3. {Alfred Powerpack}[http://www.alfredapp.com/purchase].
 
 = Setup
