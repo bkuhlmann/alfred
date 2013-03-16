@@ -34,8 +34,7 @@ Master Version (unstable):
 
 = Usage
 
-* To demo, browse to the _demo_ sub-folder and double-click the index.html to view.
-* To install, browse to the _themes_ folder and double-click the *.alfredtheme file.
+To install a theme, browse to the _themes_ folder, pick a theme folder, and double-click the *.alfredappearance file.
 
 = Contributions
 
