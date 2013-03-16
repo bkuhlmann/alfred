@@ -10,7 +10,22 @@ Provides Alfred[http://www.alfredapp.com] themes and workflows for OSX[http://ww
 {<img src="https://github.com/bkuhlmann/alfred/raw/master/themes/red_alchemist/screenshot.png" />}[https://github.com/bkuhlmann/alfred]
 {<img src="https://github.com/bkuhlmann/alfred/raw/master/themes/gnip/screenshot.png" />}[https://github.com/bkuhlmann/alfred]
 * Provides the following installable workflows:
-  * {Apple Say}[workflows/apple_say.alfredworkflow]
+  * Apple Say
+  * Battery Life
+  * Battery Time
+  * DNS Flush
+  * Edit File
+  * Edit Home File
+  * Launch Browsers
+  * Memory Purge
+  * Mountain King
+  * Open Chrome URL
+  * Open Firefox URL
+  * Open Opera URL
+  * Open Safari URL
+  * Open URL in Browsers
+  * Rebrew Ruby
+  * WiFi Toggle
 
 = Requirements
 
@@ -35,7 +50,13 @@ Master Version (unstable):
 
 = Usage
 
-Browse to the _themes_ folder, pick a theme, and double-click the *.alfredappearance file to install.
+== Theme Installation
+1. Browse to the _themes_ folder.
+2. Double-click a *.alfredappearance file to install.
+
+== Workflow Installation
+1. Browse to the _workflows_ folder.
+2. Double-click a *.alfredworkflow file to install.
 
 = Contributions
 
