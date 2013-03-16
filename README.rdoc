@@ -9,7 +9,7 @@ Provides an Alfred[http://www.alfredapp.com] themes for the OSX[http://www.apple
 Provides the installable {Red Alchemist}[http://www.redalchemist.com] and Gnip[http://gnip.com] themes as shown below:
 
 {<img src="https://github.com/bkuhlmann/alfred/raw/master/themes/red_alchemist/screenshot.png" />}[https://github.com/bkuhlmann/alfred]
-{<img src="https://github.com/bkuhlmann/alfred/raw/master/themes/gnip/gnip.png" />}[https://github.com/bkuhlmann/alfred]
+{<img src="https://github.com/bkuhlmann/alfred/raw/master/themes/gnip/screenshot.png" />}[https://github.com/bkuhlmann/alfred]
 
 = Requirements
 
