@@ -10,7 +10,7 @@ Provides Alfred[http://www.alfredapp.com] themes and workflows for OSX[http://ww
 {<img src="https://github.com/bkuhlmann/alfred/raw/master/themes/red_alchemist/screenshot.png" />}[https://github.com/bkuhlmann/alfred]
 {<img src="https://github.com/bkuhlmann/alfred/raw/master/themes/gnip/screenshot.png" />}[https://github.com/bkuhlmann/alfred]
 * Provides the following installable workflows:
-  * {Apple Say}[link:workflows/apple_say.alfredworkflow]
+  * {Apple Say}[workflows/apple_say.alfredworkflow]
 
 = Requirements
 
