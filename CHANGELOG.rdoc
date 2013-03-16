@@ -1,3 +1,16 @@
+= v2.0.0
+
+* Upgraded themes to Alfred 2.0 specs.
+* Applied Gemsmith updates to README.
+* Updated README requirements, check instructions, and usage instructions.
+* Converted/detailed the CONTRIBUTING guidelines per GitHub requirements.
+* Removed the .gitignore file.
+* Renamed MacOS X to OSX.
+* Removed theme demo pages.
+* Added Code Climate support.
+* Added the Gnip theme.
+* Added screenshots to the README.
+
 = v1.0.0
 
 * Initial version.
