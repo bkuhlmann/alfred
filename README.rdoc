@@ -1,7 +1,5 @@
 = Overview
 
-{<img src="https://codeclimate.com/github/bkuhlmann/alfred.png" alt="Code Climate GPA" />}[https://codeclimate.com/github/bkuhlmann/alfred]
-
 Provides Alfred[http://www.alfredapp.com] themes and workflows for OSX[http://www.apple.com/osx].
 
 = Features
