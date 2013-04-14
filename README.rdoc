@@ -9,21 +9,14 @@ Provides Alfred[http://www.alfredapp.com] themes and workflows for OSX[http://ww
 {<img src="https://github.com/bkuhlmann/alfred/raw/master/themes/gnip/screenshot.png" />}[https://github.com/bkuhlmann/alfred]
 * Provides the following installable workflows:
   * Apple Say
-  * Battery Life
-  * Battery Time
-  * DNS Flush
-  * Edit File
-  * Edit Home File
-  * Launch Browsers
-  * Memory Purge
+  * Browser Kit
+  * DNS Kit
+  * Energy Kit
+  * Google Chrome Kit
+  * Memory Kit
   * Mountain King
-  * Open Chrome URL
-  * Open Firefox URL
-  * Open Opera URL
-  * Open Safari URL
-  * Open URL in Browsers
   * Rebrew Ruby
-  * WiFi Toggle
+  * WiFi Kit
 
 = Requirements
 
@@ -39,7 +32,7 @@ Current Version (stable):
 
   git clone git://github.com/bkuhlmann/alfred.git
   cd alfred
-  git checkout v2.0.0
+  git checkout v2.1.0
 
 Master Version (unstable):
 
