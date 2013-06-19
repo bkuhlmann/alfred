@@ -1,4 +1,4 @@
-= v2.1.0
+# v2.1.0
 
 * Fixed search text color in Red Alchemist theme so that it is pure white.
 * Fixed DNS Info information in the DNS Kit workflow.
@@ -15,7 +15,7 @@
 * Renamed the Memory Purge workflow to Memory Kit.
 * Added caffeinate to the Energy Kit workflow.
 
-= v2.0.0
+# v2.0.0
 
 * Upgraded themes to Alfred 2.0 specs.
 * Applied Gemsmith updates to README.
@@ -28,6 +28,6 @@
 * Added the Gnip theme.
 * Added screenshots to the README.
 
-= v1.0.0
+# v1.0.0
 
 * Initial version.
