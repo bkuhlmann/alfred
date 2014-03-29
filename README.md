@@ -20,14 +20,13 @@ Provides [Alfred](http://www.alfredapp.com) themes and workflows for [OSX](http:
   * Google Chrome Kit
   * Memory Kit
   * Mountain King
-  * Rebrew Ruby
   * WiFi Kit
 
 # Requirements
 
-1. [OSX](http://www.apple.com/osx).
-2. [Alfred 2.x.x](http://www.alfredapp.com).
-3. [Alfred Powerpack](http://www.alfredapp.com/purchase).
+1. [OSX](http://www.apple.com/osx)
+2. [Alfred 2.x.x](http://www.alfredapp.com)
+3. [Alfred Powerpack](http://www.alfredapp.com/purchase)
 
 # Setup
 
