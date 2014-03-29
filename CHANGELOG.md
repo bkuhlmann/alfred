@@ -1,3 +1,11 @@
+# v3.0.0
+
+* Removed the Gnip theme.
+* Removed the Rebrew Ruby workflow.
+* Updated workflow categories.
+* Added the Charity: Water theme.
+* Added the Application Kit workflow.
+
 # v2.1.0
 
 * Fixed search text color in Red Alchemist theme so that it is pure white.
