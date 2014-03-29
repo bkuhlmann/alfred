@@ -8,8 +8,6 @@ Provides [Alfred](http://www.alfredapp.com) themes and workflows for [OSX](http:
 
 [![Red Alchemist Screenshot](https://github.com/bkuhlmann/alfred/raw/master/themes/red_alchemist/screenshot.png)](https://github.com/bkuhlmann/alfred)
 
-[![Gnip Screenshot](https://github.com/bkuhlmann/alfred/raw/master/themes/gnip/screenshot.png)](https://github.com/bkuhlmann/alfred)
-
 * Provides the following installable workflows:
   * Apple Say
   * Browser Kit
