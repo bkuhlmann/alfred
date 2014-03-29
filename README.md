@@ -13,6 +13,7 @@ Provides [Alfred](http://www.alfredapp.com) themes and workflows for [OSX](http:
 
 * Provides the following installable workflows:
   * Apple Say
+  * Application Kit
   * Browser Kit
   * DNS Kit
   * Energy Kit
