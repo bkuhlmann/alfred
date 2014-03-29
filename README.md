@@ -4,9 +4,12 @@ Provides [Alfred](http://www.alfredapp.com) themes and workflows for [OSX](http:
 
 # Features
 
-* Provides the [Red Alchemist](http://www.redalchemist.com) and [Gnip](http://gnip.com) installable themes:
+* Provides the [Red Alchemist](http://www.redalchemist.com) and [Charity: Water](http://www.charitywater.org)
+  installable themes:
 
-[![Red Alchemist Screenshot](https://github.com/bkuhlmann/alfred/raw/master/themes/red_alchemist/screenshot.png)](https://github.com/bkuhlmann/alfred)
+[![Red Alchemist Screenshot](themes/red_alchemist/screenshot.png)](https://github.com/bkuhlmann/alfred)
+
+[![Charity: Water Screenshot](themes/charity_water/screenshot.png)](https://github.com/bkuhlmann/alfred)
 
 * Provides the following installable workflows:
   * Apple Say
