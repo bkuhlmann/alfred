@@ -8,7 +8,7 @@
 
 # v2.1.0
 
-* Fixed search text color in Red Alchemist theme so that it is pure white.
+* Fixed search text color in Alchemists theme so that it is pure white.
 * Fixed DNS Info information in the DNS Kit workflow.
 * Added workflows to README (along with installation instructions).
 * Added the Google Chrome Kit workflow.

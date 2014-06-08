@@ -6,10 +6,10 @@ Provides [Alfred](http://www.alfredapp.com) themes and workflows for [OSX](http:
 
 # Features
 
-* Provides the [Red Alchemist](http://www.redalchemist.com) and [Charity: Water](http://www.charitywater.org)
+* Provides the [Alchemists](http://www.alchemists.io) and [Charity: Water](http://www.charitywater.org)
   installable themes:
 
-[![Red Alchemist Screenshot](themes/red_alchemist/screenshot.png)](https://github.com/bkuhlmann/alfred)
+[![Alchemists Screenshot](themes/red_alchemist/screenshot.png)](https://github.com/bkuhlmann/alfred)
 
 [![Charity: Water Screenshot](themes/charity_water/screenshot.png)](https://github.com/bkuhlmann/alfred)
 
@@ -69,11 +69,11 @@ Read CONTRIBUTING for details.
 
 # Credits
 
-Developed by [Brooke Kuhlmann](http://www.redalchemist.com) at [Red Alchemist](http://www.redalchemist.com)
+Developed by [Brooke Kuhlmann](http://www.alchemists.io) at [Alchemists](http://www.alchemists.io)
 
 # License
 
-Copyright (c) 2011 [Red Alchemist](http://www.redalchemist.com).
+Copyright (c) 2011 [Alchemists](http://www.alchemists.io).
 Read the LICENSE for details.
 
 # History
