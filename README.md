@@ -9,7 +9,7 @@ Provides [Alfred](http://www.alfredapp.com) themes and workflows for [OSX](http:
 * Provides the [Alchemists](http://www.alchemists.io) and [Charity: Water](http://www.charitywater.org)
   installable themes:
 
-[![Alchemists Screenshot](themes/red_alchemist/screenshot.png)](https://github.com/bkuhlmann/alfred)
+[![Alchemists Screenshot](themes/alchemists/screenshot.png)](https://github.com/bkuhlmann/alfred)
 
 [![Charity: Water Screenshot](themes/charity_water/screenshot.png)](https://github.com/bkuhlmann/alfred)
 

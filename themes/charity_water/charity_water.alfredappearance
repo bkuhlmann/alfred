@@ -19,7 +19,7 @@
 	<key>imageStyle</key>
 	<integer>0</integer>
 	<key>name</key>
-	<string>Charity: Water</string>
+	<string>charity: water</string>
 	<key>resultPaddingSize</key>
 	<integer>3</integer>
 	<key>resultSelectedBackgroundColor</key>
