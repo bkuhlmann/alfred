@@ -1,5 +1,7 @@
 # Overview
 
+[![Gittip](http://img.shields.io/gittip/bkuhlmann.svg)](https://www.gittip.com/bkuhlmann)
+
 Provides [Alfred](http://www.alfredapp.com) themes and workflows for [OSX](http://www.apple.com/osx).
 
 # Features
