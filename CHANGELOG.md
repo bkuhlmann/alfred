@@ -1,4 +1,4 @@
-# v3.0.0
+# v3.0.0 (2014-03-29)
 
 * Removed the Gnip theme.
 * Removed the Rebrew Ruby workflow.
@@ -6,7 +6,7 @@
 * Added the Charity: Water theme.
 * Added the Application Kit workflow.
 
-# v2.1.0
+# v2.1.0 (2013-04-14)
 
 * Fixed search text color in Alchemists theme so that it is pure white.
 * Fixed DNS Info information in the DNS Kit workflow.
@@ -23,7 +23,7 @@
 * Renamed the Memory Purge workflow to Memory Kit.
 * Added caffeinate to the Energy Kit workflow.
 
-# v2.0.0
+# v2.0.0 (2013-03-16)
 
 * Upgraded themes to Alfred 2.0 specs.
 * Applied Gemsmith updates to README.
@@ -36,6 +36,6 @@
 * Added the Gnip theme.
 * Added screenshots to the README.
 
-# v1.0.0
+# v1.0.0 (2011-11-17)
 
 * Initial version.
