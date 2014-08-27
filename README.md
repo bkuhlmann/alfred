@@ -6,23 +6,23 @@ Provides [Alfred](http://www.alfredapp.com) themes and workflows for [OSX](http:
 
 # Features
 
-* Provides the [Alchemists](http://www.alchemists.io) and [Charity: Water](http://www.charitywater.org)
+- Provides the [Alchemists](http://www.alchemists.io) and [Charity: Water](http://www.charitywater.org)
   installable themes:
 
 [![Alchemists Screenshot](themes/alchemists/screenshot.png)](https://github.com/bkuhlmann/alfred)
 
 [![Charity: Water Screenshot](themes/charity_water/screenshot.png)](https://github.com/bkuhlmann/alfred)
 
-* Provides the following installable workflows:
-  * Apple Say
-  * Application Kit
-  * Browser Kit
-  * DNS Kit
-  * Energy Kit
-  * Google Chrome Kit
-  * Memory Kit
-  * Mountain King
-  * WiFi Kit
+- Provides the following installable workflows:
+  - Apple Say
+  - Application Kit
+  - Browser Kit
+  - DNS Kit
+  - Energy Kit
+  - Google Chrome Kit
+  - Memory Kit
+  - Mountain King
+  - WiFi Kit
 
 # Requirements
 
@@ -59,9 +59,9 @@ Master Version (unstable):
 
 Read [Semantic Versioning](http://semver.org) for details. Briefly, it means:
 
-* Patch (x.y.Z) - Incremented for small, backwards compatible bug fixes.
-* Minor (x.Y.z) - Incremented for new, backwards compatible public API enhancements and/or bug fixes.
-* Major (X.y.z) - Incremented for any backwards incompatible public API changes.
+- Patch (x.y.Z) - Incremented for small, backwards compatible bug fixes.
+- Minor (x.Y.z) - Incremented for new, backwards compatible public API enhancements and/or bug fixes.
+- Major (X.y.z) - Incremented for any backwards incompatible public API changes.
 
 # Contributions
 
