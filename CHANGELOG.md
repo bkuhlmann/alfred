@@ -1,3 +1,11 @@
+# v4.0.0 (2015-01-01)
+
+- Removed the DNS Kit workflow.
+- Updated themes with new names and screenshots.
+- Updated all workflows with new contact info.
+- Updated README, CONTRIBUTING, LICENSE, and CHANGELOG documentation.
+- Added Google Chrome memory management to the Google Chrome Kit workflow.
+
 # v3.0.0 (2014-03-29)
 
 - Removed the Gnip theme.
