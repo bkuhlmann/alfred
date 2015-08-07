@@ -1,7 +1,5 @@
 # Alfred
 
-[![Gittip](http://img.shields.io/gittip/bkuhlmann.svg)](https://www.gittip.com/bkuhlmann)
-
 Provides [Alfred](http://www.alfredapp.com) themes and workflows for [OSX](http://www.apple.com/osx).
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
