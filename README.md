@@ -23,12 +23,9 @@ Provides [Alfred](http://www.alfredapp.com) themes and workflows for [OSX](http:
 
 # Features
 
-- Provides the [Alchemists](https://www.alchemists.io) and [Charity: Water](http://www.charitywater.org)
-  installable themes:
+- Provides the [Alchemists](https://www.alchemists.io) installable themes:
 
 [![Alchemists Screenshot](themes/alchemists/screenshot.png)](https://github.com/bkuhlmann/alfred)
-
-[![Charity: Water Screenshot](themes/charity_water/screenshot.png)](https://github.com/bkuhlmann/alfred)
 
 - Provides the following installable workflows:
   - Apple Say
