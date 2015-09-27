@@ -10,8 +10,8 @@ Provides [Alfred](http://www.alfredapp.com) themes and workflows for [OSX](http:
 - [Requirements](#requirements)
 - [Setup](#setup)
 - [Usage](#usage)
-    - [Themes](#themes)
-    - [Workflows](#workflows)
+  - [Themes](#themes)
+  - [Workflows](#workflows)
 - [Versioning](#versioning)
 - [Code of Conduct](#code-of-conduct)
 - [Contributions](#contributions)
@@ -31,7 +31,6 @@ Provides [Alfred](http://www.alfredapp.com) themes and workflows for [OSX](http:
   - Apple Say
   - Application Kit
   - Browser Kit
-  - DNS Kit
   - Energy Kit
   - Google Chrome Kit
   - Memory Kit
@@ -42,7 +41,7 @@ Provides [Alfred](http://www.alfredapp.com) themes and workflows for [OSX](http:
 
 1. [OSX](http://www.apple.com/osx)
 2. [Alfred 2.x.x](http://www.alfredapp.com)
-3. [Alfred Powerpack](http://www.alfredapp.com/purchase)
+3. [Alfred Powerpack](https://www.alfredapp.com/powerpack/buy)
 
 # Setup
 
@@ -52,7 +51,7 @@ Current Version (stable):
 
     git clone git://github.com/bkuhlmann/alfred.git
     cd alfred
-    git checkout v4.0.0
+    git checkout v5.0.0
 
 Master Version (unstable):
 
@@ -97,4 +96,4 @@ Read the [CHANGELOG](CHANGELOG.md) for details.
 
 # Credits
 
-Developed by [Brooke Kuhlmann](https://www.alchemists.io) at [Alchemists](https://www.alchemists.io)
+Developed by [Brooke Kuhlmann](https://www.alchemists.io) at [Alchemists](https://www.alchemists.io).

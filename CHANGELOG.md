@@ -1,3 +1,13 @@
+# v5.0.0 (2015-09-27)
+
+- Added code of conduct documentation.
+- Added project name to README.
+- Added table of contents to README.
+- Updated Browser Kit (icon and remote control).
+- Updated workflows to latest versions.
+- Removed GitTip badge from README.
+- Removed charty: water theme support.
+
 # v4.0.0 (2015-01-01)
 
 - Removed the DNS Kit workflow.
