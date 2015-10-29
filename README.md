@@ -1,5 +1,7 @@
 # Alfred
 
+[![Patreon](https://img.shields.io/badge/patreon-donate-brightgreen.svg)](https://www.patreon.com/bkuhlmann)
+
 Provides [Alfred](http://www.alfredapp.com) themes and workflows for [OSX](http://www.apple.com/osx).
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
