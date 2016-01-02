@@ -1,3 +1,11 @@
+# v5.1.0 (2016-01-02)
+
+- Added Patreon badge to README.
+- Updated Alfred workflows.
+- Updated Code of Conduct 1.3.0.
+- Updated Google Chrome Kit workflow to list options.
+- Updated README with Tocer generated Table of Contents.
+
 # v5.0.0 (2015-09-27)
 
 - Added code of conduct documentation.
