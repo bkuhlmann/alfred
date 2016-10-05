@@ -51,13 +51,13 @@ Open a terminal window and execute one of the following depending on your versio
 
 Current Version (stable):
 
-    git clone git://github.com/bkuhlmann/alfred.git
+    git clone https://github.com/bkuhlmann/alfred.git
     cd alfred
     git checkout v5.1.0
 
 Master Version (unstable):
 
-    git clone git://github.com/bkuhlmann/alfred.git
+    git clone https://github.com/bkuhlmann/alfred.git
     cd alfred
 
 # Usage
