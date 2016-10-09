@@ -2,7 +2,8 @@
 
 [![Patreon](https://img.shields.io/badge/patreon-donate-brightgreen.svg)](https://www.patreon.com/bkuhlmann)
 
-Provides [Alfred](http://www.alfredapp.com) themes and workflows for [OSX](http://www.apple.com/osx).
+Provides [Alfred](http://www.alfredapp.com) themes and workflows for
+[macOS](https://www.apple.com/macos).
 
 <!-- Tocer[start]: Auto-generated, don't remove. -->
 
@@ -41,7 +42,7 @@ Provides [Alfred](http://www.alfredapp.com) themes and workflows for [OSX](http:
 
 # Requirements
 
-1. [OSX](http://www.apple.com/osx)
+1. [macOS](https://www.apple.com/macos)
 2. [Alfred 2.x.x](http://www.alfredapp.com)
 3. [Alfred Powerpack](https://www.alfredapp.com/powerpack/buy)
 
