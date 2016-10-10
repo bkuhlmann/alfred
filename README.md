@@ -31,14 +31,10 @@ Provides [Alfred](http://www.alfredapp.com) themes and workflows for
 [![Alchemists Screenshot](themes/alchemists/screenshot.png)](https://github.com/bkuhlmann/alfred)
 
 - Provides the following installable workflows:
-  - Apple Say
   - Application Kit
   - Browser Kit
-  - Energy Kit
   - Google Chrome Kit
-  - Memory Kit
-  - Mountain King
-  - WiFi Kit
+  - macOS Kit
 
 # Requirements
 
@@ -54,7 +50,7 @@ Current Version (stable):
 
     git clone https://github.com/bkuhlmann/alfred.git
     cd alfred
-    git checkout v5.1.0
+    git checkout v6.0.0
 
 Master Version (unstable):
 
@@ -81,8 +77,8 @@ Read [Semantic Versioning](http://semver.org) for details. Briefly, it means:
 
 # Code of Conduct
 
-Please note that this project is released with a [CODE OF CONDUCT](CODE_OF_CONDUCT.md). By participating in this project
-you agree to abide by its terms.
+Please note that this project is released with a [CODE OF CONDUCT](CODE_OF_CONDUCT.md). By
+participating in this project you agree to abide by its terms.
 
 # Contributions
 
@@ -99,4 +95,5 @@ Read the [CHANGELOG](CHANGELOG.md) for details.
 
 # Credits
 
-Developed by [Brooke Kuhlmann](https://www.alchemists.io) at [Alchemists](https://www.alchemists.io).
+Developed by [Brooke Kuhlmann](https://www.alchemists.io) at
+[Alchemists](https://www.alchemists.io).

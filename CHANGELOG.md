@@ -1,3 +1,22 @@
+# v6.0.0 (2016-10-10)
+
+- Fixed OSX versus macOS terminology.
+- Fixed contributing guideline links.
+- Added "apps" to Google Chrome Kit workflow.
+- Added GitHub issue and pull request templates.
+- Added macOS Kit workflow.
+- Updated Alchemists theme settings.
+- Updated Application Kit workflow.
+- Updated Browser Kit workflow.
+- Updated GitHub issue and pull request templates.
+- Updated README cloning instructions to use HTTPS scheme.
+- Updated to Code of Conduct, Version 1.4.0.
+- Removed Apple Say workflow.
+- Removed Energy Kit workflow.
+- Removed Memory Kit workflow.
+- Removed Mountain King workflow.
+- Removed Wifi Kit workflow.
+
 # v5.1.0 (2016-01-02)
 
 - Added Patreon badge to README.
