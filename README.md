@@ -31,10 +31,10 @@ Provides [Alfred](http://www.alfredapp.com) themes and workflows for
 [![Alchemists Screenshot](themes/alchemists/screenshot.png)](https://github.com/bkuhlmann/alfred)
 
 - Provides the following installable workflows:
-  - Application Kit
-  - Browser Kit
-  - Google Chrome Kit
-  - macOS Kit
+  - **Application Kit**: Launches applications needed for everyday use.
+  - **Browser Kit**: Easily open browsers and URLs.
+  - **Google Chrome Kit**: Provides quick navigation for Google Chrome utilities.
+  - **macOS Kit**: A collection of macOS-related tools and utilities.
 
 # Requirements
 
