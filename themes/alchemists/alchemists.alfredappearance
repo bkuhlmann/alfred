@@ -1,115 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>background</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg7m4uD4Ag4GAADwBhg==
-	</data>
-	<key>border</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmAAAAgwAAgD6G
-	</data>
-	<key>cornerRoundness</key>
-	<integer>0</integer>
-	<key>credits</key>
-	<string>Brooke Kuhlmann</string>
-	<key>imageStyle</key>
-	<integer>0</integer>
-	<key>name</key>
-	<string>Alchemists</string>
-	<key>resultPaddingSize</key>
-	<integer>3</integer>
-	<key>resultSelectedBackgroundColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg46NDT+Dubi4PYOhoKA9AYY=
-	</data>
-	<key>resultSelectedSubtextColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg+fmZj+D5+ZmP4Pn5mY/AYY=
-	</data>
-	<key>resultSelectedTextColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmAQEBAYY=
-	</data>
-	<key>resultSubtextColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg+LhYT+D395eP4Pf3l4/AYY=
-	</data>
-	<key>resultSubtextFont</key>
-	<string>Helvetica</string>
-	<key>resultSubtextFontSize</key>
-	<integer>1</integer>
-	<key>resultTextColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg+LhYT+D395eP4Pf3l4/AYY=
-	</data>
-	<key>resultTextFont</key>
-	<string>Helvetica</string>
-	<key>resultTextFontSize</key>
-	<integer>2</integer>
-	<key>scrollbarColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAAAAg83MzD6G
-	</data>
-	<key>searchBackgroundColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg/HwcD2D8fBwPYPx8HA9AYY=
-	</data>
-	<key>searchFont</key>
-	<string>Helvetica</string>
-	<key>searchFontSize</key>
-	<integer>4</integer>
-	<key>searchForegroundColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmAQEBAYY=
-	</data>
-	<key>searchPaddingSize</key>
-	<integer>3</integer>
-	<key>searchSelectionBackgroundColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMGhANA
-	QECEhIQITlNTdHJpbmcBlIQBKwZTeXN0ZW2GhJaYG3NlbGVjdGVkVGV4dEJhY2tncm91
-	bmRDb2xvcoaEk5UDhAJmZoOrqio/AYaG
-	</data>
-	<key>searchSelectionForegroundColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMGhANA
-	QECEhIQITlNTdHJpbmcBlIQBKwZTeXN0ZW2GhJaYEXNlbGVjdGVkVGV4dENvbG9yhoST
-	lQOEAmZmAAGGhg==
-	</data>
-	<key>separatorColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmAAAAg83MzD6G
-	</data>
-	<key>shortcutColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg6GgID2DoaAgPYOhoCA9AYY=
-	</data>
-	<key>shortcutFont</key>
-	<string>Helvetica</string>
-	<key>shortcutFontSize</key>
-	<integer>2</integer>
-	<key>shortcutSelectedColor</key>
-	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmAQEBAYY=
-	</data>
-	<key>uid</key>
-	<string>alfred.theme.custom.6BDCC727-8727-4705-A83C-95AA47B8DE49</string>
-	<key>widthSize</key>
-	<integer>3</integer>
-</dict>
-</plist>
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 6,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#E6E6E6FF",
+        "font" : "Helvetica",
+        "color" : "#E1DEDEFF"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Helvetica",
+        "color" : "#0A0A0AFF"
+      },
+      "backgroundSelected" : "#A02618FF",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Helvetica",
+        "color" : "#E1DEDEFF"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 6,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#121212FF",
+      "spacing" : 10,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#000000FF",
+        "font" : "Helvetica",
+        "color" : "#FFFFFFFF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#700A00FF",
+      "paddingHorizontal" : 10,
+      "width" : 620,
+      "borderPadding" : 10,
+      "borderColor" : "#0000003F",
+      "blur" : 0,
+      "roundness" : 12,
+      "paddingVertical" : 10
+    },
+    "credit" : "Brooke Kuhlmann",
+    "separator" : {
+      "color" : "#00000066",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#00000066",
+      "thickness" : 2
+    },
+    "name" : "Alchemists"
+  }
+}
