@@ -7,24 +7,24 @@ Provides [Alfred](http://www.alfredapp.com) themes and workflows for
 
 <!-- Tocer[start]: Auto-generated, don't remove. -->
 
-# Table of Contents
+## Table of Contents
 
-- [Features](#features)
-- [Requirements](#requirements)
-- [Setup](#setup)
-- [Usage](#usage)
-  - [Themes](#themes)
-  - [Workflows](#workflows)
-- [Versioning](#versioning)
-- [Code of Conduct](#code-of-conduct)
-- [Contributions](#contributions)
-- [License](#license)
-- [History](#history)
-- [Credits](#credits)
+  - [Features](#features)
+  - [Requirements](#requirements)
+  - [Setup](#setup)
+  - [Usage](#usage)
+    - [Themes](#themes)
+    - [Workflows](#workflows)
+  - [Versioning](#versioning)
+  - [Code of Conduct](#code-of-conduct)
+  - [Contributions](#contributions)
+  - [License](#license)
+  - [History](#history)
+  - [Credits](#credits)
 
 <!-- Tocer[finish]: Auto-generated, don't remove. -->
 
-# Features
+## Features
 
 - Provides the [Alchemists](https://www.alchemists.io) installable themes:
 
@@ -36,13 +36,13 @@ Provides [Alfred](http://www.alfredapp.com) themes and workflows for
   - **Google Chrome Kit**: Provides quick navigation for Google Chrome utilities.
   - **macOS Kit**: A collection of macOS-related tools and utilities.
 
-# Requirements
+## Requirements
 
 1. [macOS](https://www.apple.com/macos)
 2. [Alfred 2.x.x](http://www.alfredapp.com)
 3. [Alfred Powerpack](https://www.alfredapp.com/powerpack/buy)
 
-# Setup
+## Setup
 
 Open a terminal window and execute one of the following depending on your version preference:
 
@@ -57,17 +57,19 @@ Master Version (unstable):
     git clone https://github.com/bkuhlmann/alfred.git
     cd alfred
 
-# Usage
+## Usage
 
-## Themes
+### Themes
+
 0. Browse to the _themes_ folder.
 0. Double-click a *.alfredappearance file to install.
 
-## Workflows
+### Workflows
+
 0. Browse to the _workflows_ folder.
 0. Double-click a *.alfredworkflow file to install.
 
-# Versioning
+## Versioning
 
 Read [Semantic Versioning](http://semver.org) for details. Briefly, it means:
 
@@ -75,25 +77,25 @@ Read [Semantic Versioning](http://semver.org) for details. Briefly, it means:
 - Minor (x.Y.z) - Incremented for new, backwards compatible, public API enhancements/fixes.
 - Patch (x.y.Z) - Incremented for small, backwards compatible, bug fixes.
 
-# Code of Conduct
+## Code of Conduct
 
 Please note that this project is released with a [CODE OF CONDUCT](CODE_OF_CONDUCT.md). By
 participating in this project you agree to abide by its terms.
 
-# Contributions
+## Contributions
 
 Read [CONTRIBUTING](CONTRIBUTING.md) for details.
 
-# License
+## License
 
 Copyright (c) 2011 [Alchemists](https://www.alchemists.io).
 Read [LICENSE](LICENSE.md) for details.
 
-# History
+## History
 
 Read [CHANGES](CHANGES.md) for details.
 
-# Credits
+## Credits
 
 Developed by [Brooke Kuhlmann](https://www.alchemists.io) at
 [Alchemists](https://www.alchemists.io).
