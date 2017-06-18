@@ -1,5 +1,6 @@
 # Alfred
 
+[![Circle CI Status](https://circleci.com/gh/bkuhlmann/alfred.svg?style=svg)](https://circleci.com/gh/bkuhlmann/alfred)
 [![Patreon](https://img.shields.io/badge/patreon-donate-brightgreen.svg)](https://www.patreon.com/bkuhlmann)
 
 Provides [Alfred](http://www.alfredapp.com) themes and workflows for
