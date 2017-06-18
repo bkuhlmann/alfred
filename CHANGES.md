@@ -1,3 +1,13 @@
+# v6.1.0 (2017-06-18)
+
+- Added Git Cop support.
+- Added presentation support to macOS workflow.
+- Updated README headers.
+- Updated README semantic versioning order.
+- Updated README versioning documentation.
+- Updated contributing documentation.
+- Removed CHANGELOG.md (use CHANGES.md instead).
+
 # v6.0.0 (2016-10-10)
 
 - Fixed OSX versus macOS terminology.
