@@ -1,3 +1,16 @@
+# v7.0.0 (2017-11-19)
+
+- Updated Alfred themes and workflows.
+- Updated CONTRIBUTING documentation.
+- Updated Gemfile.lock file.
+- Updated GitHub templates.
+- Updated gem dependencies.
+- Updated to Bundler 1.16.0.
+- Updated to Git Cop 1.7.0.
+- Updated to Rake 12.3.0.
+- Updated to Rubocop 0.51.0.
+- Updated to Ruby 2.4.2.
+
 # v6.1.0 (2017-06-18)
 
 - Added Git Cop support.

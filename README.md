@@ -32,15 +32,18 @@ Provides [Alfred](http://www.alfredapp.com) themes and workflows for
 [![Alchemists Screenshot](themes/alchemists/screenshot.png)](https://github.com/bkuhlmann/alfred)
 
 - Provides the following installable workflows:
-  - **Application Kit**: Launches applications needed for everyday use.
-  - **Browser Kit**: Easily open browsers and URLs.
-  - **Google Chrome Kit**: Provides quick navigation for Google Chrome utilities.
-  - **macOS Kit**: A collection of macOS-related tools and utilities.
+  - **Applications**: Launches applications needed for everyday use.
+  - **Browsers**: Easily open browsers and URLs.
+  - **Chrome**: Provides quick navigation for Google Chrome utilities.
+  - **Fantastical:** Add Fantastical calendar entries.
+  - **macOS**: A collection of macOS-related tools and utilities.
+  - **Text:** Manipulate text by checking spelling, opening links, etc.
+  - **YouTube:** Download YouTube vidoes for watching later.
 
 ## Requirements
 
 1. [macOS](https://www.apple.com/macos)
-2. [Alfred 2.x.x](http://www.alfredapp.com)
+2. [Alfred 3.x.x](http://www.alfredapp.com)
 3. [Alfred Powerpack](https://www.alfredapp.com/powerpack/buy)
 
 ## Setup
@@ -51,7 +54,7 @@ Current Version (stable):
 
     git clone https://github.com/bkuhlmann/alfred.git
     cd alfred
-    git checkout v6.1.0
+    git checkout v7.0.0
 
 Master Version (unstable):
 
