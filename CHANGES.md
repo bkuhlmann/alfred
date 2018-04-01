@@ -1,4 +1,4 @@
-# v8.1.0 (2018-04-01)
+# 8.1.0 (2018-04-01)
 
 - Updated README license information.
 - Updated to Circle CI 2.0.0 configuration.
@@ -6,14 +6,14 @@
 - Updated to Ruby 2.5.1.
 - Removed Patreon badge from README.
 
-# v8.0.0 (2018-01-01)
+# 8.0.0 (2018-01-01)
 
 - Added Gemfile.lock to .gitignore.
 - Updated to Apache 2.0 license.
 - Updated to Ruby 2.4.3.
 - Updated to Ruby 2.5.0.
 
-# v7.0.0 (2017-11-19)
+# 7.0.0 (2017-11-19)
 
 - Updated Alfred themes and workflows.
 - Updated CONTRIBUTING documentation.
@@ -26,7 +26,7 @@
 - Updated to Rubocop 0.51.0.
 - Updated to Ruby 2.4.2.
 
-# v6.1.0 (2017-06-18)
+# 6.1.0 (2017-06-18)
 
 - Added Git Cop support.
 - Added presentation support to macOS workflow.
@@ -36,7 +36,7 @@
 - Updated contributing documentation.
 - Removed CHANGELOG.md (use CHANGES.md instead).
 
-# v6.0.0 (2016-10-10)
+# 6.0.0 (2016-10-10)
 
 - Fixed OSX versus macOS terminology.
 - Fixed contributing guideline links.
@@ -55,7 +55,7 @@
 - Removed Mountain King workflow.
 - Removed Wifi Kit workflow.
 
-# v5.1.0 (2016-01-02)
+# 5.1.0 (2016-01-02)
 
 - Added Patreon badge to README.
 - Updated Alfred workflows.
@@ -63,7 +63,7 @@
 - Updated Google Chrome Kit workflow to list options.
 - Updated README with Tocer generated Table of Contents.
 
-# v5.0.0 (2015-09-27)
+# 5.0.0 (2015-09-27)
 
 - Added code of conduct documentation.
 - Added project name to README.
@@ -73,7 +73,7 @@
 - Removed GitTip badge from README.
 - Removed charty: water theme support.
 
-# v4.0.0 (2015-01-01)
+# 4.0.0 (2015-01-01)
 
 - Removed the DNS Kit workflow.
 - Updated themes with new names and screenshots.
@@ -81,7 +81,7 @@
 - Updated README, CONTRIBUTING, LICENSE, and CHANGELOG documentation.
 - Added Google Chrome memory management to the Google Chrome Kit workflow.
 
-# v3.0.0 (2014-03-29)
+# 3.0.0 (2014-03-29)
 
 - Removed the Gnip theme.
 - Removed the Rebrew Ruby workflow.
@@ -89,7 +89,7 @@
 - Added the Charity: Water theme.
 - Added the Application Kit workflow.
 
-# v2.1.0 (2013-04-14)
+# 2.1.0 (2013-04-14)
 
 - Fixed search text color in Alchemists theme so that it is pure white.
 - Fixed DNS Info information in the DNS Kit workflow.
@@ -106,7 +106,7 @@
 - Renamed the Memory Purge workflow to Memory Kit.
 - Added caffeinate to the Energy Kit workflow.
 
-# v2.0.0 (2013-03-16)
+# 2.0.0 (2013-03-16)
 
 - Upgraded themes to Alfred 2.0 specs.
 - Applied Gemsmith updates to README.
@@ -119,6 +119,6 @@
 - Added the Gnip theme.
 - Added screenshots to the README.
 
-# v1.0.0 (2011-11-17)
+# 1.0.0 (2011-11-17)
 
 - Initial version.
