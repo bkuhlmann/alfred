@@ -53,7 +53,7 @@ Current Version (stable):
 
     git clone https://github.com/bkuhlmann/alfred.git
     cd alfred
-    git checkout v8.0.0
+    git checkout 8.1.0
 
 Master Version (unstable):
 
