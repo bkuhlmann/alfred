@@ -64,13 +64,13 @@ Master Version (unstable):
 
 ### Themes
 
-0. Browse to the _themes_ folder.
-0. Double-click a *.alfredappearance file to install.
+1. Browse to the _themes_ folder.
+1. Double-click a *.alfredappearance file to install.
 
 ### Workflows
 
-0. Browse to the _workflows_ folder.
-0. Double-click a *.alfredworkflow file to install.
+1. Browse to the _workflows_ folder.
+1. Double-click a *.alfredworkflow file to install.
 
 ## Versioning
 
