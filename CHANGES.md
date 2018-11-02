@@ -1,3 +1,20 @@
+# 9.0.0 (2018-11-01)
+
+- Fixed Markdown ordered list numbering.
+- Added is.gd Workflow.
+- Updated Semantic Versioning links to be HTTPS.
+- Updated project changes to use semantic versions.
+- Updated to Applications Workflow 0.2.0.
+- Updated to Browsers Workflow 0.2.0.
+- Updated to Chrome Workflow 0.2.0.
+- Updated to Contributor Covenant Code of Conduct 1.4.1.
+- Updated to Fantastical Workflow 0.2.0.
+- Updated to Ruby 2.5.2.
+- Updated to Ruby 2.5.3.
+- Updated to Text Workflow 0.2.0.
+- Updated to macOS Workflow 0.2.0.
+- Removed YouTube workflow.
+
 # 8.1.0 (2018-04-01)
 
 - Updated README license information.

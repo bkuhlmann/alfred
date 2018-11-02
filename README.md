@@ -35,9 +35,9 @@ Provides [Alfred](http://www.alfredapp.com) themes and workflows for
   - **Browsers**: Easily open browsers and URLs.
   - **Chrome**: Provides quick navigation for Google Chrome utilities.
   - **Fantastical:** Add Fantastical calendar entries.
+  - **is.gd:** Convert long URLs to short URLs via the IS.GD service.
   - **macOS**: A collection of macOS-related tools and utilities.
   - **Text:** Manipulate text by checking spelling, opening links, etc.
-  - **YouTube:** Download YouTube vidoes for watching later.
 
 ## Requirements
 
@@ -53,7 +53,7 @@ Current Version (stable):
 
     git clone https://github.com/bkuhlmann/alfred.git
     cd alfred
-    git checkout 8.1.0
+    git checkout 9.0.0
 
 Master Version (unstable):
 
