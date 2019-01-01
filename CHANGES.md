@@ -1,3 +1,12 @@
+# 9.1.0 (2019-01-01)
+
+- Fixed Circle CI cache for Ruby version.
+- Added Circle CI Bundler cache.
+- Updated to Applications Workflow 0.3.0.
+- Updated to Git Cop 3.0.0.
+- Updated to Ruby 2.6.0.
+- Updated to macOS Workflow 0.3.0.
+
 # 9.0.0 (2018-11-01)
 
 - Fixed Markdown ordered list numbering.
