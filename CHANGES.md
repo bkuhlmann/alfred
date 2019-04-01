@@ -1,3 +1,8 @@
+# 9.2.0 (2019-04-01)
+
+- Updated to Ruby 2.6.1.
+- Updated to Ruby 2.6.2.
+
 # 9.1.0 (2019-01-01)
 
 - Fixed Circle CI cache for Ruby version.
