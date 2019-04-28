@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="alfred.png" alt="Alfred Icon"/>
+</p>
+
 # Alfred
 
 [![Circle CI Status](https://circleci.com/gh/bkuhlmann/alfred.svg?style=svg)](https://circleci.com/gh/bkuhlmann/alfred)
