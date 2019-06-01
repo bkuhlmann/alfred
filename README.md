@@ -57,7 +57,7 @@ Current Version (stable):
 
     git clone https://github.com/bkuhlmann/alfred.git
     cd alfred
-    git checkout 9.2.1
+    git checkout 9.2.2
 
 Master Version (unstable):
 
@@ -69,12 +69,12 @@ Master Version (unstable):
 ### Themes
 
 1. Browse to the _themes_ folder.
-1. Double-click a *.alfredappearance file to install.
+1. Double-click a `*.alfredappearance` file to install.
 
 ### Workflows
 
 1. Browse to the _workflows_ folder.
-1. Double-click a *.alfredworkflow file to install.
+1. Double-click a `*.alfredworkflow` file to install.
 
 ## Versioning
 
