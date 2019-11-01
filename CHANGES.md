@@ -1,3 +1,12 @@
+# 9.3.0 (2019-11-01)
+
+- Updated Alchemists theme screenshot.
+- Updated to Applications Workflow 0.4.0.
+- Updated to Browsers Workflow 0.3.0.
+- Updated to Rake 13.0.0.
+- Updated to Ruby 2.6.5.
+- Updated to macOS Workflow 0.4.0.
+
 # 9.2.3 (2019-09-01)
 
 - Updated to Ruby 2.6.4.
