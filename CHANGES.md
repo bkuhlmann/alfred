@@ -1,3 +1,7 @@
+# 9.3.1 (2020-01-01)
+
+- Updated to Ruby 2.7.0.
+
 # 9.3.0 (2019-11-01)
 
 - Updated Alchemists theme screenshot.
