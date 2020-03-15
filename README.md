@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="alfred.png" alt="Alfred Icon"/>
+  <img src="https://www.alchemists.io/images/projects/alfred/icon.png" alt="Alfred Icon"/>
 </p>
 
 # Alfred
@@ -34,7 +34,7 @@ Provides [Alfred](http://www.alfredapp.com) themes and workflows for
 
 - Provides the [Alchemists](https://www.alchemists.io) installable themes:
 
-[![Alchemists Screenshot](themes/alchemists/screenshot.png)](https://github.com/bkuhlmann/alfred)
+[![Alchemists Screenshot](https://www.alchemists.io/images/projects/alfred/screenshots/theme.png)](https://github.com/bkuhlmann/alfred)
 
 - Provides the following installable workflows:
   - **Applications**: Launches applications needed for everyday use.
