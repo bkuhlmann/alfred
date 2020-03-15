@@ -16,6 +16,8 @@ Provides [Alfred](http://www.alfredapp.com) themes and workflows for
   - [Features](#features)
   - [Requirements](#requirements)
   - [Setup](#setup)
+    - [Production](#production)
+    - [Development](#development)
   - [Usage](#usage)
     - [Themes](#themes)
     - [Workflows](#workflows)
@@ -51,15 +53,17 @@ Provides [Alfred](http://www.alfredapp.com) themes and workflows for
 
 ## Setup
 
-Open a terminal window and execute one of the following depending on your version preference:
+### Production
 
-Current Version (stable):
+To install, run:
 
     git clone https://github.com/bkuhlmann/alfred.git
     cd alfred
     git checkout 9.3.1
 
-Master Version (unstable):
+### Development
+
+To contribute, run:
 
     git clone https://github.com/bkuhlmann/alfred.git
     cd alfred
