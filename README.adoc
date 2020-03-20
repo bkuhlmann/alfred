@@ -1,0 +1,98 @@
+:toc: macro
+:toclevels: 5
+:figure-caption!:
+
+= Alfred
+
+[link=https://circleci.com/gh/bkuhlmann/alfred]
+image::https://circleci.com/gh/bkuhlmann/alfred.svg?style=svg[Circle CI Status]
+
+Provides link:http://www.alfredapp.com[Alfred] themes and workflows for
+link:https://www.apple.com/macos[macOS].
+
+toc::[]
+
+== Features
+
+* Provides the link:https://www.alchemists.io[Alchemists] installable themes:
+
+image::https://www.alchemists.io/images/projects/alfred/screenshots/theme.png[Alchemists Screenshots]
+
+* Provides the following installable workflows:
+** *Applications*: Launches applications needed for everyday use.
+** *Browsers*: Easily open browsers and URLs.
+** *Chrome*: Provides quick navigation for Google Chrome utilities.
+** *Fantastical:* Add Fantastical calendar entries.
+** *is.gd:* Convert long URLs to short URLs via the IS.GD service.
+** *macOS*: A collection of macOS-related tools and utilities.
+** *Text:* Manipulate text by checking spelling, opening links, etc.
+
+== Requirements
+
+. link:https://www.apple.com/macos[macOS]
+. link:http://www.alfredapp.com[Alfred]
+. link:https://www.alfredapp.com/powerpack/buy[Alfred Powerpack]
+
+== Setup
+
+=== Production
+
+To install, run:
+
+[source,bash]
+----
+git clone https://github.com/bkuhlmann/alfred.git
+cd alfred
+git checkout 9.3.1
+----
+
+=== Development
+
+To contribute, run:
+
+[source,bash]
+----
+git clone https://github.com/bkuhlmann/alfred.git
+cd alfred
+----
+
+== Usage
+
+=== Themes
+
+. Browse to the _themes_ folder.
+. Double-click a `+.alfredappearance+` file to install.
+
+=== Workflows
+
+. Browse to the _workflows_ folder.
+. Double-click a `+.alfredworkflow+` file to install.
+
+== Versioning
+
+Read link:https://semver.org[Semantic Versioning] for details. Briefly, it means:
+
+* Major (X.y.z) - Incremented for any backwards incompatible public API changes.
+* Minor (x.Y.z) - Incremented for new, backwards compatible, public API enhancements/fixes.
+* Patch (x.y.Z) - Incremented for small, backwards compatible, bug fixes.
+
+== Code of Conduct
+
+Please note that this project is released with a link:CODE_OF_CONDUCT.adoc[CODE OF CONDUCT]. By
+participating in this project you agree to abide by its terms.
+
+== Contributions
+
+Read link:CONTRIBUTING.adoc[CONTRIBUTING] for details.
+
+== License
+
+Read link:LICENSE.adoc[LICENSE] for details.
+
+== History
+
+Read link:CHANGES.adoc[CHANGES] for details.
+
+== Credits
+
+Engineered by link:https://www.alchemists.io/team/brooke_kuhlmann.html[Brooke Kuhlmann].
