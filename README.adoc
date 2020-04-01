@@ -43,7 +43,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/alfred.git
 cd alfred
-git checkout 9.3.1
+git checkout 9.4.0
 ----
 
 === Development
