@@ -19,11 +19,15 @@ toc::[]
 image::https://www.alchemists.io/images/projects/alfred/screenshots/theme.png[Alchemists Screenshots]
 
 * Provides the following installable workflows:
+** *Acronyms*: Snippets for common acronyms for clear communication.
 ** *Applications*: Launches applications needed for everyday use.
 ** *Browsers*: Easily open browsers and URLs.
+** *chl.li*: Shortens URLs using the chl.li API.
 ** *Chrome*: Provides quick navigation for Google Chrome utilities.
-** *Fantastical:* Add Fantastical calendar entries.
 ** *macOS*: A collection of macOS-related tools and utilities.
+** *Ruby:* Provides handy engineering shortcuts using the Ruby language.
+** *Ruby on Rails:* Provides development shortcuts when working with a local Ruby on Rails
+   application.
 ** *Text:* Manipulate text by checking spelling, opening links, etc.
 
 == Requirements
@@ -42,7 +46,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/alfred.git
 cd alfred
-git checkout 9.4.0
+git checkout 10.0.0
 ----
 
 === Development

@@ -1,5 +1,21 @@
 = Changes
 
+== 10.0.0 (2020-04-11)
+
+- Added Acronyms Workflow 1.0.0
+- Added Ruby Workflow 1.0.0
+- Added Ruby on Rails Workflow 1.0.0
+- Added chl.li Workflow 1.0.0
+- Updated README credit URL
+- Updated to Applications Workflow 1.0.0
+- Updated to Browsers Workflow 1.0.0
+- Updated to Chrome Workflow 1.0.0
+- Updated to Text Workflow 1.0.0
+- Updated to macOS Workflow 1.0.0
+- Removed Fantastical workflow
+- Removed the is.gd workflow
+- Refactored themes folder structure
+
 == 9.4.0 (2020-04-01)
 
 - Added README production and development setup instructions
