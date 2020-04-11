@@ -23,7 +23,6 @@ image::https://www.alchemists.io/images/projects/alfred/screenshots/theme.png[Al
 ** *Browsers*: Easily open browsers and URLs.
 ** *Chrome*: Provides quick navigation for Google Chrome utilities.
 ** *Fantastical:* Add Fantastical calendar entries.
-** *is.gd:* Convert long URLs to short URLs via the IS.GD service.
 ** *macOS*: A collection of macOS-related tools and utilities.
 ** *Text:* Manipulate text by checking spelling, opening links, etc.
 
