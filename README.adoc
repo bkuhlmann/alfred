@@ -38,8 +38,6 @@ image::https://www.alchemists.io/images/projects/alfred/screenshots/theme.png[Al
 
 == Setup
 
-=== Production
-
 To install, run:
 
 [source,bash]
@@ -47,16 +45,6 @@ To install, run:
 git clone https://github.com/bkuhlmann/alfred.git
 cd alfred
 git checkout 10.0.0
-----
-
-=== Development
-
-To contribute, run:
-
-[source,bash]
-----
-git clone https://github.com/bkuhlmann/alfred.git
-cd alfred
 ----
 
 == Usage
@@ -70,6 +58,16 @@ cd alfred
 
 . Browse the _workflows_ folder.
 . Double-click any `+.alfredworkflow+` file to install.
+
+== Development
+
+To contribute, run:
+
+[source,bash]
+----
+git clone https://github.com/bkuhlmann/alfred.git
+cd alfred
+----
 
 == Versioning
 
