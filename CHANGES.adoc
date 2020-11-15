@@ -1,30 +1,39 @@
 = Changes
 
+== 10.1.0 (2020-11-14)
+
+* Updated GitHub templates
+* Updated project documentation to conform to Rubysmith template
+* Updated to Git Lint 1.0.0
+* Updated to Git Lint 1.3.0
+* Updated to Ruby 2.7.2
+* Refactored Rakefile requirements
+
 == 10.0.0 (2020-04-11)
 
-- Added Acronyms Workflow 1.0.0
-- Added Ruby Workflow 1.0.0
-- Added Ruby on Rails Workflow 1.0.0
-- Added chl.li Workflow 1.0.0
-- Updated README credit URL
-- Updated to Applications Workflow 1.0.0
-- Updated to Browsers Workflow 1.0.0
-- Updated to Chrome Workflow 1.0.0
-- Updated to Text Workflow 1.0.0
-- Updated to macOS Workflow 1.0.0
-- Removed Fantastical workflow
-- Removed the is.gd workflow
-- Refactored themes folder structure
+* Added Acronyms Workflow 1.0.0
+* Added Ruby Workflow 1.0.0
+* Added Ruby on Rails Workflow 1.0.0
+* Added chl.li Workflow 1.0.0
+* Updated README credit URL
+* Updated to Applications Workflow 1.0.0
+* Updated to Browsers Workflow 1.0.0
+* Updated to Chrome Workflow 1.0.0
+* Updated to Text Workflow 1.0.0
+* Updated to macOS Workflow 1.0.0
+* Removed Fantastical workflow
+* Removed the is.gd workflow
+* Refactored themes folder structure
 
 == 9.4.0 (2020-04-01)
 
-- Added README production and development setup instructions
-- Updated Circle CI build label
-- Updated documentation to ASCII Doc format
-- Updated to Code of Conduct 2.0.0
-- Updated to Git Cop 4.0.0
-- Updated to Ruby 2.7.1
-- Removed README images
+* Added README production and development setup instructions
+* Updated Circle CI build label
+* Updated documentation to ASCII Doc format
+* Updated to Code of Conduct 2.0.0
+* Updated to Git Cop 4.0.0
+* Updated to Ruby 2.7.1
+* Removed README images
 
 == 9.3.1 (2020-01-01)
 
