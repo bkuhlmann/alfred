@@ -1,5 +1,14 @@
 = Changes
 
+== 11.0.0 (2020-12-30)
+
+* Fixed Circle CI configuration for Bundler config path - Brooke Kuhlmann
+* Fixed Rubocop Bundler/OrderedGems issue - Brooke Kuhlmann
+* Added Circle CI explicit Bundle install configuration - Brooke Kuhlmann
+* Updated to Applications Worfklow 1.1.0 - Brooke Kuhlmann
+* Updated to Git Lint 2.0.0 - Brooke Kuhlmann
+* Updated to Ruby 3.0.0 - Brooke Kuhlmann
+
 == 10.1.0 (2020-11-14)
 
 * Updated GitHub templates
