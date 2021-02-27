@@ -44,7 +44,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/alfred.git
 cd alfred
-git checkout 11.0.0
+git checkout 11.1.0
 ----
 
 == Usage
