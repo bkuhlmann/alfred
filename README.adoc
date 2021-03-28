@@ -24,10 +24,12 @@ image::https://www.alchemists.io/images/projects/alfred/screenshots/theme.png[Al
 ** *Browsers*: Easily open browsers and URLs.
 ** *chl.li*: Shortens URLs using the chl.li API.
 ** *Chrome*: Provides quick navigation for Google Chrome utilities.
+** *Docker*: Provides quick access to Docker information.
 ** *macOS*: A collection of macOS-related tools and utilities.
 ** *Ruby:* Provides handy engineering shortcuts using the Ruby language.
 ** *Ruby on Rails:* Provides development shortcuts when working with a local Ruby on Rails
    application.
+** *Terraform*: Provides quick access to Terraform information.
 ** *Text:* Manipulate text by checking spelling, opening links, etc.
 
 == Requirements

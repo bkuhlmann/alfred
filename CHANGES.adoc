@@ -1,5 +1,14 @@
 = Changes
 
+== 11.2.0 (2021-03-28)
+
+* Added Docker Workflow 1.0.0 - Brooke Kuhlmann
+* Added Terraform Workflow 1.0.0 - Brooke Kuhlmann
+* Updated to Acronyms Workflow 1.0.1 - Brooke Kuhlmann
+* Updated to Applications Workflow 1.3.0 - Brooke Kuhlmann
+* Updated to Text Workflow 1.1.0 - Brooke Kuhlmann
+* Updated to macOS Workflow 1.2.0 - Brooke Kuhlmann
+
 == 11.1.0 (2021-02-27)
 
 * Updated to Applications Workflow 1.2.0 - Brooke Kuhlmann
