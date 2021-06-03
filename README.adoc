@@ -4,6 +4,14 @@
 
 = Alfred
 
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+*This project will be destroyed on August 1st, 2021*. Please use
+link:https://www.alchemists.io/projects/pennyworth[Pennyworth] instead. The Pennyworth project has
+everything this project provides and _much more_!
+
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
 [link=https://circleci.com/gh/bkuhlmann/alfred]
 image::https://circleci.com/gh/bkuhlmann/alfred.svg?style=svg[Circle CI Status]
 
