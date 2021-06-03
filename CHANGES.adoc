@@ -1,5 +1,10 @@
 = Changes
 
+== 11.2.1 (2021-06-03)
+
+- Updated README with end of life documentation - Brooke Kuhlmann
+- Updated to Ruby 3.0.1 - Brooke Kuhlmann
+
 == 11.2.0 (2021-03-28)
 
 * Added Docker Workflow 1.0.0 - Brooke Kuhlmann
